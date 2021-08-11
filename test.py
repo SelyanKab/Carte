@@ -26,5 +26,5 @@ print(len(rows))
 print('*****************************************************')
 print('Cliquez sur une touche pour quitter')
 time.sleep(59)
-print('Terminé')
+print('Terminé ')
 
