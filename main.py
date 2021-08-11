@@ -1,7 +1,7 @@
 
 import time
-
 import pyodbc
+
 print('Entrez le nom:  ')
 x = input()
 
